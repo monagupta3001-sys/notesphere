@@ -1,0 +1,6 @@
+{
+  "name": "NoteSphere",
+  "description": "Interactive study notes, mindmaps, virtual lab diagrams, and gamified quizzes for Class 8 students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
